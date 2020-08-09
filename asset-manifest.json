@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/publicis-sapient/static/css/main.b8db655d.chunk.css",
+    "main.js": "/publicis-sapient/static/js/main.c7bb32ab.chunk.js",
+    "main.js.map": "/publicis-sapient/static/js/main.c7bb32ab.chunk.js.map",
+    "runtime-main.js": "/publicis-sapient/static/js/runtime-main.a9221028.js",
+    "runtime-main.js.map": "/publicis-sapient/static/js/runtime-main.a9221028.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/publicis-sapient/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.c0785b38.chunk.js": "/publicis-sapient/static/js/2.c0785b38.chunk.js",
+    "static/js/2.c0785b38.chunk.js.map": "/publicis-sapient/static/js/2.c0785b38.chunk.js.map",
+    "index.html": "/publicis-sapient/index.html",
+    "precache-manifest.2936ee8c30519d88501af28ff0921547.js": "/publicis-sapient/precache-manifest.2936ee8c30519d88501af28ff0921547.js",
+    "service-worker.js": "/publicis-sapient/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/publicis-sapient/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.b8db655d.chunk.css.map": "/publicis-sapient/static/css/main.b8db655d.chunk.css.map",
+    "static/js/2.c0785b38.chunk.js.LICENSE.txt": "/publicis-sapient/static/js/2.c0785b38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9221028.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.c0785b38.chunk.js",
+    "static/css/main.b8db655d.chunk.css",
+    "static/js/main.c7bb32ab.chunk.js"
+  ]
+}
